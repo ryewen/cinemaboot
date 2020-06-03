@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cinemaboot-api/cinemaboot-api.iml" filepath="$PROJECT_DIR$/cinemaboot-api/cinemaboot-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemaboot-field/cinemaboot-field.iml" filepath="$PROJECT_DIR$/cinemaboot-field/cinemaboot-field.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemaboot-gateway/cinemaboot-gateway.iml" filepath="$PROJECT_DIR$/cinemaboot-gateway/cinemaboot-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemaboot-movie/cinemaboot-movie.iml" filepath="$PROJECT_DIR$/cinemaboot-movie/cinemaboot-movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemaboot-order/cinemaboot-order.iml" filepath="$PROJECT_DIR$/cinemaboot-order/cinemaboot-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cinemaboot-user/cinemaboot-user.iml" filepath="$PROJECT_DIR$/cinemaboot-user/cinemaboot-user.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cinemaboot-user-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/cinemaboot-user/target/cinemaboot-user-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
